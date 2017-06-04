@@ -6,7 +6,9 @@
 
 ## 源代码管理
 使用git作为版本管理工具
+
 私有项目使用[码云作为托管平台](https://git.oschina.net/organizations/shabao-studio)
+
 开源项目使用[Github作为托管平台](https://github.com/shabao-studio/)
 
 ### 版本库命名
