@@ -102,6 +102,10 @@ release在对外发布时使用, 项目的各个部分需分别执行release操�
 * 便于PCB设计时参考
 * 便于制造, 如生成BOM表
 
+### 库使用
+* 优先使用kicad官方库device
+* 将lib复制到工程中的lib目录下
+
 ### 注释
 适当的注释便于PCB设计, 如:
 * 写清有摆放位置要求的元件的位置, 如晶振:"Place close to MCU"
